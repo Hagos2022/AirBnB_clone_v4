@@ -42,5 +42,5 @@ def hbnb():
 
 
 if __name__ == "__main__":
-    """ Main Function """
+    """ Main Function - Starts API in the Port 5000 """
     app.run(host='0.0.0.0', port=5000)
